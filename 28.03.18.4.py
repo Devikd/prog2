@@ -1,5 +1,5 @@
 def medium_num_in_list( list ):
-     medium = list[0
+     medium = list[0]
      for a in list:
         if a > medium:
            medium = a
